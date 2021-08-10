@@ -10,4 +10,3 @@ app.use(routes)
 
 
 export default app;
-//tempo da pausa 1:06:41
